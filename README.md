@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+![MasterHead](https://github.com/solonz/solonz/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Solon</h1>
 <h3 align="center">I'm a jr. full stack web developer addicted to problem solving!</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/pt-BR/view/developer-programmer-gif-24927594](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="300" src="https://github.com/solonz/solonz/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solonz&label=Profile%20views&color=0e75b6&style=flat" alt="solonz" /> </p>
 
